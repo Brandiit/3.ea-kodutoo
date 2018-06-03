@@ -1,1 +1,3 @@
-document.getElementById('changeSite').window.location.href = "https://github.com/";
+document.getElementById('changeSite').onClick = function(){
+	window.location.href = "http://github.com";
+};
