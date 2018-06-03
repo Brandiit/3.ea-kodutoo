@@ -1,6 +1,6 @@
-# GTMetrix veebitestija - base by John Somez at https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/
+# Lihtne redigeerija
 
-## GTMetrix on lihtne veebisaidi kiiruse testija, mis annab teada, kas sait on aeglustunud või mitte.
+## Vajutades nuppu, saadab githubi kodulehele. Lihtne.
 
 ### Autoriks Brendon Brandt
 
