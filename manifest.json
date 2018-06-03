@@ -1,21 +1,13 @@
 {
-    "name": "Getting Started Example",
+    "name": "Simple redirecter",
     "version": "1.0",
-    "description": "Build an Extension!",
-    "permissions": ["activeTab", "declarativeContent", "storage"],
-	"options_page": "options.html",
+    "description": "Redirects to a page.",
     "background": {
-      "scripts": ["background.js"],
+      "scripts": ["popup.js"],
       "persistent": false
     },
     "page_action": {
       "default_popup": "popup.html",
-      "default_icon": {
-        "16": "get_started16.png",
-        "32": "get_started32.png",
-        "48": "get_started48.png",
-        "128": "get_started128.png"
-      }
     },
     "manifest_version": 2
   }
