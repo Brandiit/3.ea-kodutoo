@@ -6,4 +6,4 @@
 
 ### Autoriks Brendon Brandt
 
-### Tõmmised puuduvad sest katsetamine ei andnud lõpuks tulemit.
+### (https://imgur.com/itLm0KV.png)
