@@ -1,6 +1,8 @@
 # Lihtne redigeerija
 
-## Vajutades nuppu, saadab githubi kodulehele. Lihtne.
+## Vajutades nuppu, tekitab vormi, mille täitmisel saadab githubi kodulehele. Lihtne.
+
+## Kahjuks ei leidnud infot selle kohta, kuidas jõuda leheni sisselogitult.
 
 ### Autoriks Brendon Brandt
 
